@@ -11,6 +11,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 
 
+
 namespace WebApplication6.Controllers
 {
     [Authorize]
@@ -389,13 +390,15 @@ namespace WebApplication6.Controllers
         //
         // POST: /Account/LogOff
         [HttpPost]
-        [AllowAnonymous]
         [ValidateAntiForgeryToken]
         public ActionResult LogOff()
         {
             AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
             return RedirectToAction("Index", "Home");
         }
+
+
+
 
         //
         // GET: /Account/ExternalLoginFailure

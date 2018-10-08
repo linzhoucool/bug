@@ -117,3 +117,5 @@ C:\Users\SD21\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplicat
 C:\Users\SD21\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CopyComplete
 C:\Users\SD21\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
 C:\Users\SD21\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\SD21\Desktop\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\SD21\Desktop\WebApplication6\obj\Debug\WebApplication6.pdb
